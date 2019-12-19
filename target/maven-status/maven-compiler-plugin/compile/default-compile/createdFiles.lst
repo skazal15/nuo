@@ -1,0 +1,7 @@
+com\dompetku\dao\IClientDao.class
+com\dompetku\DompetkuApplication.class
+com\dompetku\entity\Client.class
+com\dompetku\dao\ClientDao.class
+com\dompetku\services\ClientService.class
+com\dompetku\controller\ClientController.class
+com\dompetku\services\IClientService.class
